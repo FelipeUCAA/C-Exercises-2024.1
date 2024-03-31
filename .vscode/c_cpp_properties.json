@@ -1,0 +1,12 @@
+[{
+	"resource": "/c:/Users/N3 Mobile/C-Exercises-2024.1/col8-Paula/qst57.cpp",
+	"owner": "C/C++: IntelliSense",
+	"code": "1696",
+	"severity": 8,
+	"message": "não é possível abrir o arquivo fonte \"stdio.h\". Execute o comando 'Selecionar configuração do IntelliSense...' para localizar os cabeçalhos do sistema.",
+	"source": "C/C++",
+	"startLineNumber": 1,
+	"startColumn": 1,
+	"endLineNumber": 1,
+	"endColumn": 19
+}]
